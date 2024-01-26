@@ -35,4 +35,8 @@ tools, and performance optimization. In the final two programming
 assignments, students will work in pairs to design, implement, test, and
 evaluate a high-performance handwriting recognition system to
 automatically classify handwritten letters.
+<<<<<<< HEAD
 Alice was here
+=======
+Bob was here
+>>>>>>> 22e3ab19006bdacf745078c673f2b2308e67bbdd
