@@ -1,3 +1,4 @@
 square
 circle
 triangle
+rectangle
