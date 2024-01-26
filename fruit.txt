@@ -1,14 +1,1 @@
-apple
-mango
-orange
-banana
-peach
-lemon
-<<<<<<< HEAD
-date
-=======
-kiwi
->>>>>>> e1153b71bdccbee7ad0558772fc3617de0b831de
-melon
-blueberry
-watermelon
+dragon fruit
